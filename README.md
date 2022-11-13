@@ -3,7 +3,7 @@
 ## 1 QUARTER
   - ![Geography](src/1/Geography)
   - ![Chemistry](src/1/Chemistry)
-  - ![LifeSafety](src/1/LifeSafety)
+  - ![Life Safety](src/1/LifeSafety)
 ## 2 QUARTER
   - ![Empty](src/2/)
 ## 3 QUARTER
