@@ -5,7 +5,7 @@
   - ![Chemistry](src/1/Chemistry)
   - ![Life-Safety-Fundamental](src/1/LifeSafety)
 ## 2 QUARTER
-  - ![Empty](src/2/)
+  - ![Extracurricular](src/2/Extracurricular)
 ## 3 QUARTER
   - ![Empty](src/3/)
 ## 4 QUARTER
